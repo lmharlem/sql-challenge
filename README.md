@@ -3,7 +3,7 @@
 # Employee Database: A Mystery in Two Parts  ![](Images/sql.png)
 
 
-### As a newly hired data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. Using six CSV files form the employees database I will answer the following questions: 
+### As a newly hired data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. Using six CSV files from the employees database I will answer the following questions: 
 
    1. List the following details of each employee: employee number, last name, first name, sex, and salary.
    2. List first name, last name, and hire date for employees who were hired in 1986.
