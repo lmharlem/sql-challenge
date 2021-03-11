@@ -1,3 +1,5 @@
+![](Images/sql.png)
+
 # Employee Database: A Mystery in Two Parts
 
 
