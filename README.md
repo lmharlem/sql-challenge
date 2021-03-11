@@ -1,6 +1,6 @@
-![](Images/sql.png)
 
-# Employee Database: A Mystery in Two Parts
+
+# Employee Database: A Mystery in Two Parts  ![](Images/sql.png)
 
 
 ### As a newly hired data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. Using six CSV files form the employees database I will answer the following questions: 
